@@ -1,3 +1,13 @@
+# NextJS Meetup Application
+
+Vercel Prod URL;
+[https://nextjs-meetup-app-ten.vercel.app/](https://nextjs-meetup-app-ten.vercel.app/)
+
+- backend mongo atlas
+- frontend react
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
